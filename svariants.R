@@ -1,6 +1,11 @@
-#' @author Hédia Tnani
-#' @param var1 variants vector of variety 1
-#' @param var2 variants vector of variety 2
+##' @name svariants
+##' @author Hédia Tnani
+##' @description svariants(): return the similar variants of two vectors
+
+
+
+##' @param var1 variants vector of variety 1
+##' @param var2 variants vector of variety 2
 
 
 svariants=function(var1, var2){
