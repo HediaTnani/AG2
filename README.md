@@ -1,1 +1,1 @@
-# AG2
+# Scripts developped for the AG2 paper
